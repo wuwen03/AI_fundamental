@@ -1,1 +1,2 @@
 AI_fundamental
+陈胤遒 10225101546
