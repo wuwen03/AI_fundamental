@@ -1,0 +1,1 @@
+{"name":"Local: 1_1","url":"d:\\wuwen\\ECNU\\大二下\\AI基础\\作业\\Project_1\\Prob1\\1_1.cpp","tests":[{"id":1710087761335,"input":"4 5\n1 2\n2 3\n3 4\n1 3\n1 4","output":""},{"id":1711677649975,"input":"1 1 \n1 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\wuwen\\ECNU\\大二下\\AI基础\\作业\\Project_1\\Prob1\\1_1.cpp","group":"local","local":true}
